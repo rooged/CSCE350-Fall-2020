@@ -2,7 +2,7 @@
 
 ## How To Use
 - Run the .cpp
-- Enter any word
+- Enter any word in lowercase letters (i.e. tim)
 
 ## Result
 The program will find the shortest possible palindrome that can be created from the entered word.
