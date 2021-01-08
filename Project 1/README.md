@@ -1,5 +1,5 @@
-# Project 1 - Tower of Huger (Tower of Hanoi variant)
+# Project 1 - Tower of Huger
 
-# How To Use:
+## How To Use:
 - Run the .cpp
 - Enter any positive integer
